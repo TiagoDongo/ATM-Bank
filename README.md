@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="file:///C:/Users/User/Documents/Documentos%20UTA-ISECMAR/Visual%20Studio%20Code-Projects/Logo%20LD%20Codes%20Edit.pdf" />
+<img src="file:///C:/Users/User/Documents/Documentos%20UTA-ISECMAR/Visual%20Studio%20Code-Projects/Liedson%20Delgado%20Codes%20Logo.PNG" />
 </div>
 
 
