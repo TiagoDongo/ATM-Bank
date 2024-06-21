@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="file:///C:/Users/User/Documents/Documentos%20UTA-ISECMAR/Visual%20Studio%20Code-Projects/Logo%20LD%20Codes%20Edit.pdf" />
 </div>
 
 
