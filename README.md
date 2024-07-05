@@ -1,15 +1,6 @@
-# ...
-
-<span align="center">
-
-</span>
-
-
-<div align="center">
-<img src="https://drive.google.com/file/d/1qIClFqCCDM6fKCHGYdBkv_455D3H-HEc/view" />
-</div>
-
-
-<p align="center">
-
->Working.........[5.5%]
+>Hello there, I'm Liedson Delgado
+<h2>
++STATUS:  Currently studying Computer Engineering at UTA (Atlantic Technical University)📚👨🏽‍💻 
+<h2>
++ AGE:  18
+<h3>Hobbies: Reading, Learning about Programming, Sleepin>
