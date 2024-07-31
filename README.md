@@ -1,6 +1,4 @@
->Hello there, I'm Liedson Delgado
-<h2>
-+STATUS:  Currently studying Computer Engineering at UTA (Atlantic Technical University)📚👨🏽‍💻 
-<h2>
-+ AGE:  18
-<h3>Hobbies: Reading, Learning about Programming, Sleepin>
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
