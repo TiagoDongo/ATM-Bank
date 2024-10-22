@@ -1,7 +1,5 @@
 # Meu Projeto
 
-![Nível de Uso das Linguagens de Programação](./usage_graph.png)
-
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![ASM](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white)
