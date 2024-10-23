@@ -1,0 +1,54 @@
+                                       emição de recibo    
+
+*saber qual serviço foi efetuado levantamento ou consulta
+*saber data e hora do levantamento e consulta
+->caso de levantamento:
+    -saber quanto foi levantado
+    -saber quanto ficou na conta
+    -guarda os dados num ficheiro de texto justo com os outros dados do dono da conta
+
+->caso de consulta:
+    ->saber quanto tem na conta
+    ->saber todas as transações feitas, hora e dia
+
+
+-------------------------------------------------------------------------------------------------------------
+
+                                    função levantamento
+
+dados necessarios:
+    -senha do cartão para aceder os dados da conta que sera uma lista simples/dupla
+    -saldo da conta
+
+-funcionamento:
+    * pede a senha do cartão
+        ->avisa ao utilizador que so tem tres tentativas
+        ->validação da senha digitada comparando-a com a senha registrada na base de dados
+        ->caso seja diferente tenta mais 2x
+        ->depois de tres bloqueia temporariamente a conta 
+    * acessa a conta para saber o saldo total da conta
+
+    * 'Opcional:' mostrar o proprietario o saldo total da conta
+
+    * 4/6 opções de levantamento sendo:
+        -> 3/5 montantes padrão: 1000, 5000, etc
+        -> 1 a opção desejada: pergunta ao utilizador quanto deseja retirar
+        OBS: colocar um limite de quanto pode ser levantado por dia
+
+    * caso o saldo bancaio seja inferior ao montante desejado envia msg de erro e retira o menor montante dado nas opções
+
+    * depois de retirar o valor desejado, corrigir o saldo da conta
+    * listar todas as transações feitas
+
+-------------------------------------------------------------------------------------------------------------
+                                    função consulta
+dados:
+    - senha
+        *validação da senha
+
+funcionalidades:
+    - mostrar o saldo da conta
+    - mostrar todas as transações feitas em que dia e hora
+
+
+-------------------------------------------------------------------------------------------------------------
